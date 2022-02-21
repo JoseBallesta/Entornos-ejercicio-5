@@ -1,6 +1,7 @@
 # Entornos-ejercicio-5
 <<<<<<< HEAD
 public class Main {
+Freddy Garcés
 
 	static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
