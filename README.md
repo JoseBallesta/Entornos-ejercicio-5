@@ -1,5 +1,6 @@
 # Entornos-ejercicio-5
 
+#Josep Lluis: Hola que tal
 
 static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) throws InterruptedException {
