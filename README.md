@@ -1,6 +1,14 @@
 # Entornos-ejercicio-5
 
-#Josep Lluis: Hola que tal
+### Josep Lluis: Hola que tal
+
+Josep Lluis: uaikgsuwgqowa
+
+Josep Lluis: uawgdiuqñod8iwady
+
+Josep Lluis: ysikrpñy
+
+## Josep Lluis: Adios
 
 static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) throws InterruptedException {
