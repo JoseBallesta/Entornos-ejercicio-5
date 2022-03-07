@@ -1,14 +1,7 @@
 # Entornos-ejercicio-5
+## hey
+### Dennis Hector: Hola que tal
 
-### Josep Lluis: Hola que tal
-
-Josep Lluis: uaikgsuwgqowa
-
-Josep Lluis: uawgdiuqñod8iwady
-
-Josep Lluis: ysikrpñy
-
-## Josep Lluis: Adios
 
 Paso 1 clono el repositorio
 ![Paso 1](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura1.PNG)
