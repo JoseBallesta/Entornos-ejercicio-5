@@ -10,38 +10,38 @@ Josep Lluis: ysikrpñy
 
 ## Josep Lluis: Adios
 
-Paso 1 Creo mi rama 
-![Paso 1](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso1.PNG)
+Paso 1 clono el repositorio
+![Paso 1](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura1.PNG)
 
-Paso 2 Abrimos la rama
-![Paso 2](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso2.PNG)
+Paso 2 creamos la rama
+![Paso 2](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura2.PNG)
 
-Paso 3 Ponemos nuestro email y nombre
-![Paso 3](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso3.PNG)
-![Paso 4](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso4.PNG)
+Paso 3 entramos a la rama
+![Paso 3](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura3.PNG)
+hacemos un push
+![Paso 4](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura4.PNG)
 
-Paso 4 Ahora lo comitamos
-![Paso 5](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso5.PNG)
+Paso 4 accedo a mi cuenta
+![Paso 5](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura5.PNG)
 
-Paso 5 Hacemos un push
-![Paso 6](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso6.PNG)
+Paso 5 hacemos un git add a los cambios y git commit
+![Paso 6](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura6.PNG)
+![paso7](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/imagenes/Captura7.PNG)
+hacemos un git pull
+![paso 8](https://github.com/JoseBallesta/Entornos-ejercicio-5/blob/dennis2-features/Captura8.PNG)
 
-Paso 6 Hacemos un pull
-![Paso 7](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso7.PNG)
 
-Paso 7 Editamos el readme
-![Paso 8](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso8.PNG)
 
-Paso 8 Ahora lo comitamos
-![Paso 9](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso9.PNG)
 
-Paso 9 Hacemos un push
-![Paso 10](https://raw.githubusercontent.com/JoseBallesta/Entornos-ejercicio-5/josep-features/Entornos/Paso10.PNG)
+
+
+
 
 static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) throws InterruptedException {
         int max=13;
         int min=1;
+        int dennis;
         
         int valorCarta;
         String nombreCarta;
